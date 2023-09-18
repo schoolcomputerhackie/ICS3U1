@@ -3,6 +3,11 @@
 - Using my [Custom Formatter](https://linksoon), format your Python file and copy the output string
 - Use an HTTP test site like [REQBIN](https://reqbin.com/) and fill in the following values:<br>
 ---
+URL:
+```
+https://backend.academy.cs.cmu.edu/api/v0/files/upload/
+```
+
 Content:
 
 ```
